@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": "67022263-e394-44dc-896e-97efeb4d421c",
+      "title": "Solar Energy Microgrid Installation",
+      "description": "This project involves the installation of a solar energy microgrid in a rural village to provide reliable electricity to the community. The microgrid will be connected to a battery storage system to ensure continuous power supply, especially during peak demand hours.",
+      "createdAt": "1/21/2024",
+      "mainImage": "https://www.pv-magazine-india.com/wp-content/uploads/sites/8/2020/11/Sunrise-1200x800.jpg",
+      "createdBy": "BMC Mumbai",
+      "daysLeft": 11,
+      "amountRaised": "₹309575",
+      "goal": "₹1000000",
+      "contributors": 2325,
+      "category": "Solar",
+      "country": "Mumbai, India",
+      "type": "Goal Reaching"
+    },
+    {
+      "id": "43f85607-436e-444c-8bf1-4f23769bc79e",
+      "title": "Waste-to-Energy Conversion Plant",
+      "description": " The waste-to-energy conversion plant converts organic waste into biogas, which is then used to generate electricity. This project not only helps in waste management but also generates renewable energy, contributing to a cleaner environment.",
+      "createdAt": "1/22/2024",
+      "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Wheelabrator_Waste-to-Energy_Plant%2C_Saugus_MA.jpg/1280px-Wheelabrator_Waste-to-Energy_Plant%2C_Saugus_MA.jpg",
+      "createdBy": "Government of Maharashtra",
+      "daysLeft": 42,
+      "amountRaised": "₹22058",
+      "goal": "₹500000",
+      "contributors": 591,
+      "category": "Waste Management",
+      "country": "Pune, India",
+      "type": null
+    },
+    {
+      "id": "04c53c43-9ce6-40e0-b68c-c9677c85f585",
+      "title": "Wind Farm Expansion",
+      "description": "This project involves expanding an existing wind farm by installing additional wind turbines. The goal is to increase the total power generation capacity of the wind farm, contributing more clean energy to the grid.",
+      "createdAt": "2/25/2024",
+      "mainImage": "https://etimg.etb2bimg.com/photo/101516409.cms",
+      "createdBy": "NNMC, Mumbai",
+      "daysLeft": 81,
+      "amountRaised": "₹76752.04",
+      "goal": "₹100000",
+      "contributors": 8484,
+      "category": "Wind",
+      "country": "Navi Mumbai, India",
+      "type": null
+    },
+    {
+      "id": "cbf55f88-98ba-451f-9a8e-b6b264ac81c5",
+      "title": "Hydropower Plant Rehabilitation",
+      "description": "The project focuses on rehabilitating an aging hydropower plant to improve its efficiency and reliability. This includes upgrading the turbines, generators, and control systems to increase the plant's power output and extend its operational lifespan.",
+      "createdAt": "8/28/2022",
+      "mainImage": "https://www.nsenergybusiness.com/wp-content/uploads/sites/3/2019/09/1l-Image-Qairokkum-Hydropower-Rehabilitation-Project.jpg",
+      "createdBy": "Government of Maharashtra",
+      "daysLeft": 98,
+      "amountRaised": "₹82650.10",
+      "goal": "₹100000",
+      "contributors": 788,
+      "category": "Water",
+      "country": "Mumbai, India",
+      "type": null
+    },
+    {
+      "id": "ccadcd85-c544-4b8d-ab56-18251db168fb",
+      "title": "Solar Water Pumping System.",
+      "description": "This project focuses on installing solar-powered water pumping systems in rural areas with limited access to electricity. These systems use solar energy to pump water for irrigation, livestock, and domestic use, improving water access and agricultural productivity.",
+      "createdAt": "5/16/2022",
+      "mainImage": "https://intersolarsystems.com/wp-content/uploads/2023/10/Solar-Water-Pumping-Systems.png",
+      "createdBy": "Government of India",
+      "daysLeft": 85,
+      "amountRaised": "₹620190.80",
+      "goal": "₹10000000",
+      "contributors": 67500,
+      "category": "Solar/Water",
+      "country": "Thane, India",
+      "type": "Featured"
+    }
+    
+  ]
+}

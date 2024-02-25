@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "title": "Projects",
+      "links": [
+        {
+          "label": "Solar powered",
+          "link": "#"
+        },
+        {
+          "label": "HydroElectric",
+          "link": "#"
+        },
+        {
+          "label": "Wind powered",
+          "link": "#"
+        },
+        {
+          "label": "Bio Energy",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "title": "Learn more",
+      "links": [
+        {
+          "label": "How Community Works",
+          "link": "#"
+        },
+        {
+          "label": "Why Invest",
+          "link": "#"
+        },
+        {
+          "label": "FAQ",
+          "link": "#"
+        },
+        {
+          "label": "Electric plants",
+          "link": "#"
+        },
+        {
+          "label": "Supported energies",
+          "link": "#"
+        },
+        {
+          "label": "Renewable source",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "title": "Locations",
+      "links": [
+        {
+          "label": "Mumbai",
+          "link": "#"
+        },
+        {
+          "label": "Delhi",
+          "link": "#"
+        },
+        {
+          "label": "Chennai",
+          "link": "#"
+        },
+        {
+          "label": "Chandigarh",
+          "link": "#"
+        },
+        {
+          "label": "Kolkata",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}
